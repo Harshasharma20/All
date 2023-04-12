@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "cmp-databinding-start",
+			"problemMatcher": [],
+			"label": "npm: start - cmp-databinding-start",
+			"detail": "ng serve",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
